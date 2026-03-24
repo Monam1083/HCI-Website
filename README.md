@@ -1,12 +1,5 @@
 # HCI-Project
-Human Computer Interaction UI/UX Website Redesign
-
-### Group Members
-* [Safnaj](https://github.com/Safnaj)
-* [Shaneli](https://github.com/amandaSFer)
-* [Shashikala](https://github.com/shashikala-weerasinghe)
-* [Prasangi](https://github.com/Prasangi)
-* [Janangi](https://github.com/janangiSenarathna)
-
-#### Demo : https://safnaj.github.io/HCI-Project/
-
+Human Computer Interaction UI/UX Website 
+<br>
+this is website where user an book hotel rooms online
+<br>
